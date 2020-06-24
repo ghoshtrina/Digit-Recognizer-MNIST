@@ -7,4 +7,5 @@ The objective was to orrectly identify the digits 0 to 9 in handwriting images.
 The dataset was an image dataset from Kaggle: https://www.kaggle.com/c/digit-recognizer/data?select=test.csv
 
 3 classification algorithms were used, Naive-Bayes, Random Forest and Support Vector Machines. 
-After running the models on the train data, the Random Forest model was found to have the highest accuracy of  after fine tuning.
+After running the models on the train data, the Random Forest model was found to have the highest accuracy of about 91% after fine tuning.
+The Kaggle submission score obtained was 0.92 or 92%.
