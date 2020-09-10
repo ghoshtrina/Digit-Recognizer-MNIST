@@ -1,4 +1,4 @@
-# Digit-Recognizer-Kaggle-Competition-
+# Digit-Recognizer-MNIST
 
 The follwing project was done as part of a Data Analytics class.
 
